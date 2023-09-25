@@ -11,12 +11,12 @@ In questo Notebook utilizzerò Python ed alcune sue librerie per verificare le s
 **Dinamica**  
 
 Mi interesso in questo caso di azioni con:
-Gap Minimo >= 70%  
-Prezzo di Open >= 3$  
-Volume di Pre Market >=5M  
-Volume totale di giornata>=25M  
-Market Cap <= 500M  
-Flottante >= 1M  
+**Gap** Minimo >= **70%**   
+Prezzo di Open >= **3$**  
+Volume di **Pre Market** >=**5M**  
+Volume totale di **giornata**>=**25M**   
+Market Cap <= **500M**  
+Flottante >= **1M**    
 
 **Domanda**  
 
