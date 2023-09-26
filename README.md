@@ -1,4 +1,6 @@
-Italiano  
+**Italiano**  
+
+
 
 **Introduzione**  
 
@@ -24,7 +26,9 @@ Flottante >= **1M**
 
 In questa situazione quante volte il prezzo di un'azione chiude sotto l'open?
 
-English  
+**English**  
+
+
 
 **Introduction**  
 
@@ -41,8 +45,8 @@ In this case, I am interested in stocks with the following criteria:
 
 Minimum **Gap** >= **70%**  
 Open Price >= **$3**  
-Pre-Market Volume >= **5M**  
-Total Daily Volume >= **25M**  
+**Pre-Market** Volume >= **5M**  
+Total **Daily** Volume >= **25M**  
 Market Cap <= **$500M**  
 Float >= **1M**  
 
